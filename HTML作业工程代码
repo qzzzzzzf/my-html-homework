@@ -1,0 +1,111 @@
+<!DOCTYPE html >
+<html>
+<head>
+<meta charset="utf-8">
+<title>计算机科学技术导论结课作业HTML版(<jsjkxjsdl>
+<html></html>.com)</title>
+</head>
+<body>
+<table border="1">
+    <caption>个人信息</caption>
+    <tr>
+        <td>姓名</td>
+        <td>邱振峰</td>
+    </tr>
+    <tr >
+        <td>学号</td>
+        <td>2213311017</td>
+    </tr>
+    <tr>
+        <td>班级</td>
+        <td>智能电气与信息Q2112</td>
+    </tr>
+</table>
+<h1 style="text-align:center">结课作业HTML部分</h1>
+<p style="font-family:arial;color:blue;font-size:20px;">1.各学科课程之间关系</p>
+<img src="各课程之间关系图.png" width="1500" height="1000">
+<p style="font-family:arial;color:blue;font-size:20px;">2.各课程参考资料</p>
+<p>点击表情以获取资料</p>
+<p>大学物理</p>
+<a href="https://www.icourse163.org/channel/2003.htm?cate=1001043058" target="_blank">
+    <img border="0" src="http://ww3.sinaimg.cn/bmiddle/cf652d2bgw1fbezdntefoj20g40dydi7.jpg" alt="HTML 教程" width="200" height="200"></a></p>
+<p>计算机导论</p>
+<a href="https://www.bilibili.com/video/BV13V41117xc" target="_blank">
+    <img border="0" src="http://wx1.sinaimg.cn/bmiddle/814268e3gy1fgo0a2v5u4j20ci08xq4h.jpg" alt="HTML 教程" width="200" height="200"></a></p>
+<p>计算机程序设计</p>
+<a href="https://wenku.so.com/d/cb89364350042f4e4a10a506e826978e" target="_blank">
+    <img border="0" src="http://wx1.sinaimg.cn/bmiddle/006dMd5bgy1fl6gzclm1mj30j60j6gmp.jpg" alt="HTML 教程" width="200" height="200"></a></p>
+<p>微积分</p>
+<a href="https://zhuanlan.zhihu.com/p/45203159?from_voters_page=true" target="_blank">
+    <img border="0" src="http://wx1.sinaimg.cn/bmiddle/006dMd5bgy1fl6gzdkf5bj30j60j6756.jpg" alt="HTML 教程" width="200" height="200"></a></p>
+<p style="font-family:arial;color:blue;font-size:20px;">3.我对计算机专业的认识（请点击按钮）</p>
+<p id="demo">
+<script>
+function myFunction()
+{
+	document.getElementById("demo").innerHTML="我只觉得计算机专业就是一个专业，一个和计算机有关的专业，一个培养“程序猿”的专业，这个专业的人都很会敲代码，精通各种计算机技术，从硬件到软件，从计算机组装到使用，他们有“一条龙”的能力。";
+}
+</script>
+<button type="button" onclick="myFunction()">从前</button>
+<p id="demo1">
+<script>
+function myFunction1()
+{
+document.getElementById("demo1").innerHTML="我觉得以前的想法实在是太肤浅了，计算机专业应该是众多专业的庞大集合体。在21世纪，我们已经离不开计算机了，它在生活中的每个角落发挥着作用，我们用的线上支付、扫码出行等都离不开背后强大的计算机技术支撑。它的影响已经深入我们的生活，就拿西安疫情核酸检测过程来说吧：西安一码通的崩溃的影响是巨大的，整个市的核酸检测陷入停滞，当事人，我，望着一动不动的人群，吹着冷风，着实感受到了计算机技术对生活的巨大影响。此外，通过一学期对python的学习，我也感受到了编程的魅力，冒泡排序、求公因数、素数等经典题型中的算法的巧妙、精简、凝练，着实让我心生向往。这就像解题，冥思苦想得到的解法，就如算法，减少时间、空间复杂度，有效又实用。况且，从一类问题中提炼出模型，写出算法，进行建模，通过程序计算、拟合、实验，得到结论，这何尝又不是一件美事呢？最后，通过计算机科学技术导论这门课程的学习，我越发领悟到计算机专业的重要性，越发向往计算机专业！"
+}
+</script>
+<button type="button" onclick="myFunction1()">现在</button>
+<p style="font-family:arial;color:blue;font-size:20px;">4.学业规划</p>
+<h4>邱某的学业规划</h4>
+<p>优缺点分析</p>
+<ul>
+    <li>优点
+       <ul>
+         <li>不服输、喜欢钻研、对自己有较高要求</li>
+       </ul>
+    </li>
+    <li>缺点
+      <ul>
+        <li> 表达能力欠缺、交际能力欠缺、英语口语能力差、自制力还不够</li>
+      </ul>
+    </li>
+</ul>    
+<p>大一到大四的规划<p>
+<ul>
+    <li> 大一
+        <ul>
+            <li>尽快适应大学生活，抓住机会提高表达能力和交际能力，同时培养自己的兴趣爱好（尤克里里），通过英语四级，参与社会实践活动</li>
+        </ul>
+    </li>
+    <li>大二
+        <ul>
+            <li>通过英语六级并拿到一个好成绩，专注学习，参与奖学金的竞争，夯实数理基础为专业学习做准备</li>
+        </ul>
+    </li>
+    <li>大三
+        <ul>
+            <li>努力学习专业知识，了解专业的各个小方向，确立目标，同时积极准备竞争保研名额</li>
+        </ul>
+    </li>
+    <li>大四
+        <ul>
+            <li>保研之后则积极准备科研相关工作的准备；保研未果则积极复习，准备考研</li>
+        </ul>
+    </li>
+</ul>
+<p id="demo2">
+    老师给你一个惊喜
+</p>
+ <script>
+function myFunction2()
+{
+x=document.getElementById("demo2") 
+x.style.color="#ff0000";         
+document.getElementById("demo2").innerHTML="老师虎年快乐，🐅🐅🐅"
+}
+</script>
+<button type="button" onclick="myFunction2()">点击这里</button>
+<embed src=音乐.mp3 width=0 height=0 type=audio/mpeg loop="true" autostart="true" volume="0"></embed>
+</audio>
+</body>
+</html>
